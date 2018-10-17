@@ -134,6 +134,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 - [Isadora](https://troikatronix.com) [Cross-platform] - Scene based media control software with integrated projection mapper.
 - [cables](https://cables.gl) [Cross-platform/Web] - Your model kit for creating beautiful interactive content. Currently in private beta, invites can be requested.
+- [Hopscotch](https://gethopscotch.com) [iOS] - Visual programming language for kids.
 
 ### Sound Programming Languages
 
